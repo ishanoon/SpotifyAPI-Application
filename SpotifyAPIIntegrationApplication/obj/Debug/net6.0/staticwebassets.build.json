@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sokWY33VoHQW8EVc499tH8oejbdCBjRCQHUJQtYif/M=",
+  "Source": "SpotifyAPIIntegrationApplication",
+  "BasePath": "_content/SpotifyAPIIntegrationApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
