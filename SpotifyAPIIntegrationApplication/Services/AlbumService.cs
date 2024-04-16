@@ -13,8 +13,8 @@ namespace SpotifyAPIIntegrationApplication.Services
     {
         private const string BaseUrl = "https://api.spotify.com/v1/";
         private const string URLParameter = "";
-        private const string clientId = "caecbf56b7414889a048f2f1368b1f54";
-        private const string clientSecret = "64ee50af24704c45a08d03fbe8ac2381";
+        private const string clientId = "s";
+        private const string clientSecret = "";
 
         public string? getToken()
         {
